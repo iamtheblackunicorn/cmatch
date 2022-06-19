@@ -1,8 +1,8 @@
-# CMATCH :black_nib: :ribbon:
+# CMATCH :art: :artist:
 
 ![GitHub CI](https://github.com/iamtheblackunicorn/cmatch/actions/workflows/vue.yml/badge.svg)
 
-***A small Vue.js app to inspire writers.*** :black_nib: :ribbon:
+***A small color matching app written in Vue.js. :art: :artist:***
 
 ## ABOUT :books:
 
@@ -66,5 +66,5 @@ $ npm run build
 
 ## NOTE :scroll:
 
-- *CMatch :black_nib: :ribbon:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- *CMatch :art: :artist:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
 - Licensed under the MIT license.
