@@ -6,7 +6,7 @@
 
 ## ABOUT :books:
 
-As an artist, I often find myself wondering about good color schemes, for this I wrote a small webapp that gives you a complementary color as a hexadecimal if you put a color into the input field in hexadecimal format too.
+As an artist, I often find myself wondering about good color schemes. To address this problem, I wrote a small web app that gives you a complementary color in hex from a source color in hex.
 
 ## DEPLOYED PROJECT ON NETLIFY :rocket:
 
