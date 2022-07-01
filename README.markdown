@@ -8,9 +8,9 @@
 
 As an artist, I often find myself wondering about good color schemes. To address this problem, I wrote a small web app that gives you a complementary color in hex from a source color in hex.
 
-## DEPLOYED PROJECT ON NETLIFY :rocket:
+## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](joyful-selkie-984e0e.netlify.app)
+To view a live deployed version of this project, click here: [VIEW](https://blckunicorn.art/cmatch)
 
 ## SET IT UP :inbox_tray:
 
@@ -62,7 +62,7 @@ $ npm run build
 - Initial release.
 - Upload to GitHub.
 - Styling finalized.
-- Deployment on Netlify.
+- Deployment on GitHub Pages.
 
 ## NOTE :scroll:
 

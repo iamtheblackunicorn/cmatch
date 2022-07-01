@@ -13,6 +13,7 @@ Licensed under the MIT license.
  <LineBreak/>
  <LineBreak/>
  <ColorMatch name="Color Match" />
+ <FooterCog/>
 
 </template>
 
@@ -22,11 +23,13 @@ Licensed under the MIT license.
 // including them.
 import ColorMatch from './components/ColorMatch.vue';
 import LineBreak from './components/LineBreak.vue';
+import FooterCog from './components/FooterCog.vue';
 export default {
   name: 'App',
   components: {
     ColorMatch,
-    LineBreak
+    LineBreak,
+    FooterCog
   },
 }
 </script>

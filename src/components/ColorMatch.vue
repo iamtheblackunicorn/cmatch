@@ -152,6 +152,48 @@ p {
     padding: 20px;
     text-align: left;
 }
+div.footer {
+  width: 100vw;
+  border-top: 3px solid $mainColor;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0px;
+  padding: 10px;
+  position: fixed;
+  background-color: transparent;
+}
+p.footer {
+  text-align: center;
+  border: none;
+  font-family: $stdFont;
+  color: $mainColor;
+  font-size: 25px;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  font-style: italic;
+  width: auto;
+}
+
+a {
+  font-family: $stdFont;
+  color: $mainColor;
+  font-size: 25px;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  font-style: italic;
+  transition-duration: 0.6s;
+}
+
+a:hover {
+     color: $shadowColor;
+}
+
 /* DESKTOP SECTION END */
 
 /* MOBILE SECTION START */
@@ -177,6 +219,12 @@ p {
         font-size: 20px;
         overflow-x: scroll;
         width: 63%;
+    }
+    p.footer {
+        font-size: 20px;
+    }
+    a {
+        font-size: 20px;
     }
 }
 /* MOBILE SECTION END */
